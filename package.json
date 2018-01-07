@@ -1,0 +1,16 @@
+{
+  "name": "jsontotype",
+  "version": "1.0.0",
+  "description": "change a json file to typescript interface.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "trans": "node main.js"
+  },
+  "keywords": ["typescrpt"],
+  "author": "ymrdf",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
+}
