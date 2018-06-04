@@ -7,7 +7,9 @@
     "test": "node main.js",
     "trans": "node main.js"
   },
-  "keywords": ["typescrpt"],
+  "keywords": [
+    "typescrpt"
+  ],
   "author": "ymrdf",
   "license": "ISC",
   "dependencies": {
